@@ -1,0 +1,17 @@
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Application.deps.json
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Application.dll
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Application.pdb
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.AssemblyInfoInputs.cache
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.AssemblyInfo.cs
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.csproj.CoreCompileInputs.cache
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.dll
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\refint\BlazorSozluk.Api.Application.dll
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.pdb
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\ref\BlazorSozluk.Api.Application.dll
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Domain.dll
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Common.dll
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Api.Domain.pdb
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\bin\Debug\net6.0\BlazorSozluk.Common.pdb
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.csproj.AssemblyReference.cache
+D:\VeliProjeler\BlazorSozluık\src\Api\Core\BlazorSozluk.Api.Application\obj\Debug\net6.0\BlazorSozluk.Api.Application.csproj.CopyComplete

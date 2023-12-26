@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "b05YHt/W5YOz+MDSHwu9U3/iouG+CgkWOyF+BC9hPzcjGT7/cLQiZ4nj7imjUtHbvITVassaO+rDryvvuqjDCg==",
+  "success": true,
+  "projectFilePath": "D:\\VeliProjeler\\BlazorSozluık\\src\\Api\\Core\\BlazorSozluk.Api.Domain\\BlazorSozluk.Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Veli\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Veli\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Veli\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Veli\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Veli\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
